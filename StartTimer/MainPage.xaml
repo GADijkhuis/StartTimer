@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StartTimer.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackLayout
+            Margin="10"
+            VerticalOptions="Start" 
+            HorizontalOptions="End">
+            <Button x:Name="BTN_options" Clicked="BTN_options_Clicked" Text="Meer opties"/>
+        </StackLayout>
+        <StackLayout
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            Grid.Row="1" >
+            <Label x:Name="LBL_time" Text="0:00" FontSize="48" HorizontalTextAlignment="Center"/>
+            <Label x:Name="LBL_time_minutes" HorizontalTextAlignment="Center"/>
+            <Label x:Name="LBL_countdown" HorizontalTextAlignment="Center"/>
+        </StackLayout>
+        <StackLayout
+            VerticalOptions="Center"
+            Grid.Row="2" >
+            <HorizontalStackLayout
+                HorizontalOptions="Center" 
+                Spacing="20" >
+                <Button x:Name="BTN_start" Clicked="BTN_start_Clicked" Text="Start"/>
+                <Button x:Name="BTN_stop" Clicked="BTN_stop_Clicked" Text="Stop" />
+            </HorizontalStackLayout>
+        </StackLayout>
+    </Grid>
+</ContentPage>

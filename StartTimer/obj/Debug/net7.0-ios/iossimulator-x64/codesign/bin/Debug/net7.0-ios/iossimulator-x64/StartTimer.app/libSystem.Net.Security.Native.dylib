@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/bin/Debug/net7.0-ios/iossimulator-x64/StartTimer.app/libSystem.Net.Security.Native.dylib

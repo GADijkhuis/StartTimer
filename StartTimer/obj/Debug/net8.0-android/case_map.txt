@@ -1,0 +1,4 @@
+appicon/appicon_starttimer;appicon/appicon_starttimer
+appicon/appiconfg_starttimer;appicon/appiconfg_starttimer
+raw/aboutassets;raw/AboutAssets
+raw/beep;raw/beep
