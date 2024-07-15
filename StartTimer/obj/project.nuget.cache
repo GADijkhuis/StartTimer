@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8iONop1zSGE=",
+  "dgSpecHash": "/DiUujOrXkw=",
   "success": true,
-  "projectFilePath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer.csproj",
+  "projectFilePath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/StartTimer.csproj",
   "expectedPackageFiles": [
     "/Users/gideondijkhuis/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/gideondijkhuis/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",

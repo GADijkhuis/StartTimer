@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>StartTimer.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>StartTimer.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer</SourceProjectPath>
+      <SourceProjectPath>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

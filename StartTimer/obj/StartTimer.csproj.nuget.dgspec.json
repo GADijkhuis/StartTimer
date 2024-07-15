@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer.csproj": {}
+    "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/StartTimer.csproj": {}
   },
   "projects": {
-    "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer.csproj": {
+    "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/StartTimer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer.csproj",
+        "projectUniqueName": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/StartTimer.csproj",
         "projectName": "StartTimer",
-        "projectPath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer.csproj",
+        "projectPath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/StartTimer.csproj",
         "packagesPath": "/Users/gideondijkhuis/.nuget/packages/",
-        "outputPath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/",
+        "outputPath": "/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

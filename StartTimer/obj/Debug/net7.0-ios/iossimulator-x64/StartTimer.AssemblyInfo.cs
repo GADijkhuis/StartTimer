@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartTimer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+672dfa802126ee9eafd8dc1b31e7b6aef1352120")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartTimer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartTimer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

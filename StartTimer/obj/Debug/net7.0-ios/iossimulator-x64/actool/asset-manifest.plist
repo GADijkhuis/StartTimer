@@ -6,10 +6,10 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/Assets.car</string>
-			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/appicon_starttimer60x60@2x.png</string>
-			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/appicon_starttimer76x76@2x~ipad.png</string>
-			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/partial-info.plist</string>
+			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/Assets.car</string>
+			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/appicon_starttimer60x60@2x.png</string>
+			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/bundle/appicon_starttimer76x76@2x~ipad.png</string>
+			<string>/Users/gideondijkhuis/AppDevelopment/StartTimer/StartTimer/StartTimer/obj/Debug/net7.0-ios/iossimulator-x64/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>
